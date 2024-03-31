@@ -1,2 +1,2 @@
 # Dududula-sentiment-analysis
-analysis of twitter sentiments on the operation dudula
+Analysis of twitter sentiments on the operation dudula in South Africa
